@@ -1,0 +1,4 @@
+﻿  Magnus_Furberg.cpp
+C:\Users\smfur\source\repos\Compulsory 2\Magnus_Furberg\Magnus_Furberg.cpp(27,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smfur\source\repos\Compulsory 2\Magnus_Furberg\Magnus_Furberg.cpp(43,27): warning C4018: '<': signed/unsigned mismatch
+  Magnus_Furberg.vcxproj -> C:\Users\smfur\source\repos\Compulsory 2\Magnus_Furberg\Debug\Magnus_Furberg.exe

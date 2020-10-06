@@ -1,0 +1,17 @@
+﻿'Magnus_Furberg.exe' (Win32): Loaded 'C:\Users\smfur\source\repos\Compulsory 2\Magnus_Furberg\Debug\Magnus_Furberg.exe'. Symbols loaded.
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Program Files\AVG\Antivirus\x86\aswhook.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4f18 has exited with code 0 (0x0).
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Magnus_Furberg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The program '[2044] Magnus_Furberg.exe' has exited with code 0 (0x0).
